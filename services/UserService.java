@@ -5,8 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
 import com.vcabading.loginandregistration.models.LoginUser;
-import com.vcabading.loginandregistration.models.User;
-import com.vcabading.loginandregistration.repositories.UserRepository;
+import com.codingdojo.loginandregistration.models.User;
+import com.codingdojo.loginandregistration.repositories.UserRepository;
     
 // user service
 

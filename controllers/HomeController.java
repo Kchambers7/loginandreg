@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
-import com.vcabading.loginandregistration.models.LoginUser;
-import com.vcabading.loginandregistration.models.User;
-import com.vcabading.loginandregistration.services.UserService;
+import com.codingdojo.loginandregistration.models.LoginUser;
+import com.codingdojo.loginandregistration.models.User;
+import com.codingdojo.loginandregistration.services.UserService;
 
 
 // home controller

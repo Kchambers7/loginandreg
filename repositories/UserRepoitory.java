@@ -1,8 +1,8 @@
-package com.vcabading.loginandregistration.repositories;
+package com.codingdojo.loginandregistration.repositories;
 import java.util.Optional;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
-import com.vcabading.loginandregistration.models.User;
+import com.codingdojo.loginandregistration.models.User;
 
 
 //user repository

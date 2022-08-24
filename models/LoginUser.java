@@ -1,4 +1,4 @@
-package com.vcabading.loginandregistration.models;
+package com.codingdojo.loginandregistration.models;
 
 import java.util.Date;
 import javax.persistence.Column;
