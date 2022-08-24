@@ -1,4 +1,4 @@
-package com.vcabading.loginandregistration.controllers;
+package com.codingdojo.loginandregistration.controllers;
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
